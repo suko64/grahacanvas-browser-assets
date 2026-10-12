@@ -1,0 +1,2169 @@
+{
+  "sourceKernelSHA256": "c1c7feeab882263fc493a9d5a5b2ddd71b54826cdf65d8d17a76126b260a49f2",
+  "sourceKernelBytes": 32726016,
+  "method": {
+    "id": "gc-lahiri-iae1985-iau1976-1980-v1",
+    "provider": "GrahaCanvas owned core",
+    "version": "0.2.0-private-validation",
+    "ayanamsha": "Conventional Lahiri/Chitrapaksha, IAE1985 epoch; IAU1976 precession + IAU1980 nutation",
+    "houses": "Whole-sign",
+    "nodes": "Mean lunar node, IERS2003; nutation added for true frame; Ketu exactly opposite",
+    "frame": "Matched IAU1976/1980 true ecliptic/equinox of date; geocentric apparent physical grahas",
+    "ephemeris": "Offline NASA/JPL DE440s, Skyfield1.54 apparent vectors + ERFA rotations; outer planets use barycenters",
+    "earthRotation": "1973\u20132026 pinned Skyfield1.54 IERS-derived delta-T; outside that period UT1 approximates UTC; historical/future coverage not released",
+    "status": "private-validation; public gate closed"
+  },
+  "scope": {
+    "minDate": "1974-01-01",
+    "maxDate": "2024-12-31",
+    "timezone": "Asia/Kolkata"
+  },
+  "chunks": [
+    {
+      "url": "data/de440-1973-1979.bin",
+      "gzipUrl": "data/de440-1973-1979.bin.gz",
+      "bytes": 704640,
+      "gzipBytes": 691779,
+      "sha256": "bd6564714c0a57e84bed53d001a0877a0d42003e6f02cd0b0f0b73f274de9559",
+      "gzipSHA256": "5a569d7cc96464a1ee5a91b1e76db2af90d7073e776c2e9f18a4f3033fcdd614",
+      "startYear": 1973,
+      "endYearExclusive": 1980,
+      "segments": [
+        {
+          "center": 0,
+          "target": 1,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 691200.0,
+          "records": 328,
+          "coefficients": 14,
+          "offsetBytes": 0
+        },
+        {
+          "center": 0,
+          "target": 2,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 1382400.0,
+          "records": 164,
+          "coefficients": 10,
+          "offsetBytes": 110208
+        },
+        {
+          "center": 0,
+          "target": 3,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 1382400.0,
+          "records": 164,
+          "coefficients": 13,
+          "offsetBytes": 149568
+        },
+        {
+          "center": 0,
+          "target": 4,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 2764800.0,
+          "records": 82,
+          "coefficients": 11,
+          "offsetBytes": 200736
+        },
+        {
+          "center": 0,
+          "target": 5,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 2764800.0,
+          "records": 82,
+          "coefficients": 8,
+          "offsetBytes": 222384
+        },
+        {
+          "center": 0,
+          "target": 6,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 2764800.0,
+          "records": 82,
+          "coefficients": 7,
+          "offsetBytes": 238128
+        },
+        {
+          "center": 0,
+          "target": 10,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 1382400.0,
+          "records": 164,
+          "coefficients": 11,
+          "offsetBytes": 251904
+        },
+        {
+          "center": 3,
+          "target": 301,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 345600.0,
+          "records": 656,
+          "coefficients": 13,
+          "offsetBytes": 295200
+        },
+        {
+          "center": 3,
+          "target": 399,
+          "initSeconds": -855057600.0,
+          "intervalSeconds": 345600.0,
+          "records": 656,
+          "coefficients": 13,
+          "offsetBytes": 499872
+        },
+        {
+          "center": 1,
+          "target": 199,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 704544
+        },
+        {
+          "center": 2,
+          "target": 299,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 704592
+        }
+      ]
+    },
+    {
+      "url": "data/de440-1980-1989.bin",
+      "gzipUrl": "data/de440-1980-1989.bin.gz",
+      "bytes": 1002192,
+      "gzipBytes": 983925,
+      "sha256": "8ea910d2140b71eb4e40a265f79cf51904b3429ceeb03f7dbddab81cfa8ae4fb",
+      "gzipSHA256": "046c6399f78853dc39ea1345aa9004f0af2edb7a9e66c5de0619646268c89101",
+      "startYear": 1980,
+      "endYearExclusive": 1990,
+      "segments": [
+        {
+          "center": 0,
+          "target": 1,
+          "initSeconds": -634564800.0,
+          "intervalSeconds": 691200.0,
+          "records": 466,
+          "coefficients": 14,
+          "offsetBytes": 0
+        },
+        {
+          "center": 0,
+          "target": 2,
+          "initSeconds": -635256000.0,
+          "intervalSeconds": 1382400.0,
+          "records": 234,
+          "coefficients": 10,
+          "offsetBytes": 156576
+        },
+        {
+          "center": 0,
+          "target": 3,
+          "initSeconds": -635256000.0,
+          "intervalSeconds": 1382400.0,
+          "records": 234,
+          "coefficients": 13,
+          "offsetBytes": 212736
+        },
+        {
+          "center": 0,
+          "target": 4,
+          "initSeconds": -636638400.0,
+          "intervalSeconds": 2764800.0,
+          "records": 118,
+          "coefficients": 11,
+          "offsetBytes": 285744
+        },
+        {
+          "center": 0,
+          "target": 5,
+          "initSeconds": -636638400.0,
+          "intervalSeconds": 2764800.0,
+          "records": 118,
+          "coefficients": 8,
+          "offsetBytes": 316896
+        },
+        {
+          "center": 0,
+          "target": 6,
+          "initSeconds": -636638400.0,
+          "intervalSeconds": 2764800.0,
+          "records": 118,
+          "coefficients": 7,
+          "offsetBytes": 339552
+        },
+        {
+          "center": 0,
+          "target": 10,
+          "initSeconds": -635256000.0,
+          "intervalSeconds": 1382400.0,
+          "records": 234,
+          "coefficients": 11,
+          "offsetBytes": 359376
+        },
+        {
+          "center": 3,
+          "target": 301,
+          "initSeconds": -634219200.0,
+          "intervalSeconds": 345600.0,
+          "records": 931,
+          "coefficients": 13,
+          "offsetBytes": 421152
+        },
+        {
+          "center": 3,
+          "target": 399,
+          "initSeconds": -634219200.0,
+          "intervalSeconds": 345600.0,
+          "records": 931,
+          "coefficients": 13,
+          "offsetBytes": 711624
+        },
+        {
+          "center": 1,
+          "target": 199,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 1002096
+        },
+        {
+          "center": 2,
+          "target": 299,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 1002144
+        }
+      ]
+    },
+    {
+      "url": "data/de440-1990-1999.bin",
+      "gzipUrl": "data/de440-1990-1999.bin.gz",
+      "bytes": 1000128,
+      "gzipBytes": 981908,
+      "sha256": "ac5fd67b17ff0faf9ec42f8599bd98e7ac1eac6e015579015d825e8aaf8fd3e8",
+      "gzipSHA256": "7aced6d721285531a147ed8a376638bc0a865a9ae84daf276d2d59e4b5be2741",
+      "startYear": 1990,
+      "endYearExclusive": 2000,
+      "segments": [
+        {
+          "center": 0,
+          "target": 1,
+          "initSeconds": -318686400.0,
+          "intervalSeconds": 691200.0,
+          "records": 466,
+          "coefficients": 14,
+          "offsetBytes": 0
+        },
+        {
+          "center": 0,
+          "target": 2,
+          "initSeconds": -318686400.0,
+          "intervalSeconds": 1382400.0,
+          "records": 233,
+          "coefficients": 10,
+          "offsetBytes": 156576
+        },
+        {
+          "center": 0,
+          "target": 3,
+          "initSeconds": -318686400.0,
+          "intervalSeconds": 1382400.0,
+          "records": 233,
+          "coefficients": 13,
+          "offsetBytes": 212496
+        },
+        {
+          "center": 0,
+          "target": 4,
+          "initSeconds": -318686400.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 11,
+          "offsetBytes": 285192
+        },
+        {
+          "center": 0,
+          "target": 5,
+          "initSeconds": -318686400.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 8,
+          "offsetBytes": 316080
+        },
+        {
+          "center": 0,
+          "target": 6,
+          "initSeconds": -318686400.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 7,
+          "offsetBytes": 338544
+        },
+        {
+          "center": 0,
+          "target": 10,
+          "initSeconds": -318686400.0,
+          "intervalSeconds": 1382400.0,
+          "records": 233,
+          "coefficients": 11,
+          "offsetBytes": 358200
+        },
+        {
+          "center": 3,
+          "target": 301,
+          "initSeconds": -318340800.0,
+          "intervalSeconds": 345600.0,
+          "records": 930,
+          "coefficients": 13,
+          "offsetBytes": 419712
+        },
+        {
+          "center": 3,
+          "target": 399,
+          "initSeconds": -318340800.0,
+          "intervalSeconds": 345600.0,
+          "records": 930,
+          "coefficients": 13,
+          "offsetBytes": 709872
+        },
+        {
+          "center": 1,
+          "target": 199,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 1000032
+        },
+        {
+          "center": 2,
+          "target": 299,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 1000080
+        }
+      ]
+    },
+    {
+      "url": "data/de440-2000-2009.bin",
+      "gzipUrl": "data/de440-2000-2009.bin.gz",
+      "bytes": 999792,
+      "gzipBytes": 981707,
+      "sha256": "57f512975798a083ec318e7311472be7d28a5e243f60cbccaef3434336a66b9b",
+      "gzipSHA256": "897301bd36a475fa94c1f8c2b7ffd4a8edc8f6d5879739336e0869c1e3b62f01",
+      "startYear": 2000,
+      "endYearExclusive": 2010,
+      "segments": [
+        {
+          "center": 0,
+          "target": 1,
+          "initSeconds": -2808000.0,
+          "intervalSeconds": 691200.0,
+          "records": 465,
+          "coefficients": 14,
+          "offsetBytes": 0
+        },
+        {
+          "center": 0,
+          "target": 2,
+          "initSeconds": -3499200.0,
+          "intervalSeconds": 1382400.0,
+          "records": 233,
+          "coefficients": 10,
+          "offsetBytes": 156240
+        },
+        {
+          "center": 0,
+          "target": 3,
+          "initSeconds": -3499200.0,
+          "intervalSeconds": 1382400.0,
+          "records": 233,
+          "coefficients": 13,
+          "offsetBytes": 212160
+        },
+        {
+          "center": 0,
+          "target": 4,
+          "initSeconds": -3499200.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 11,
+          "offsetBytes": 284856
+        },
+        {
+          "center": 0,
+          "target": 5,
+          "initSeconds": -3499200.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 8,
+          "offsetBytes": 315744
+        },
+        {
+          "center": 0,
+          "target": 6,
+          "initSeconds": -3499200.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 7,
+          "offsetBytes": 338208
+        },
+        {
+          "center": 0,
+          "target": 10,
+          "initSeconds": -3499200.0,
+          "intervalSeconds": 1382400.0,
+          "records": 233,
+          "coefficients": 11,
+          "offsetBytes": 357864
+        },
+        {
+          "center": 3,
+          "target": 301,
+          "initSeconds": -2808000.0,
+          "intervalSeconds": 345600.0,
+          "records": 930,
+          "coefficients": 13,
+          "offsetBytes": 419376
+        },
+        {
+          "center": 3,
+          "target": 399,
+          "initSeconds": -2808000.0,
+          "intervalSeconds": 345600.0,
+          "records": 930,
+          "coefficients": 13,
+          "offsetBytes": 709536
+        },
+        {
+          "center": 1,
+          "target": 199,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 999696
+        },
+        {
+          "center": 2,
+          "target": 299,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 999744
+        }
+      ]
+    },
+    {
+      "url": "data/de440-2010-2019.bin",
+      "gzipUrl": "data/de440-2010-2019.bin.gz",
+      "bytes": 1000944,
+      "gzipBytes": 982711,
+      "sha256": "61519ab9032e2e905d7c025673b2ad3e806526e3c2333239929f47f3a684c294",
+      "gzipSHA256": "cbbbd5bd4945b61a49e3e784db6d5d1fdae467248b896688faa92222b225b12b",
+      "startYear": 2010,
+      "endYearExclusive": 2020,
+      "segments": [
+        {
+          "center": 0,
+          "target": 1,
+          "initSeconds": 312379200.0,
+          "intervalSeconds": 691200.0,
+          "records": 466,
+          "coefficients": 14,
+          "offsetBytes": 0
+        },
+        {
+          "center": 0,
+          "target": 2,
+          "initSeconds": 311688000.0,
+          "intervalSeconds": 1382400.0,
+          "records": 234,
+          "coefficients": 10,
+          "offsetBytes": 156576
+        },
+        {
+          "center": 0,
+          "target": 3,
+          "initSeconds": 311688000.0,
+          "intervalSeconds": 1382400.0,
+          "records": 234,
+          "coefficients": 13,
+          "offsetBytes": 212736
+        },
+        {
+          "center": 0,
+          "target": 4,
+          "initSeconds": 311688000.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 11,
+          "offsetBytes": 285744
+        },
+        {
+          "center": 0,
+          "target": 5,
+          "initSeconds": 311688000.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 8,
+          "offsetBytes": 316632
+        },
+        {
+          "center": 0,
+          "target": 6,
+          "initSeconds": 311688000.0,
+          "intervalSeconds": 2764800.0,
+          "records": 117,
+          "coefficients": 7,
+          "offsetBytes": 339096
+        },
+        {
+          "center": 0,
+          "target": 10,
+          "initSeconds": 311688000.0,
+          "intervalSeconds": 1382400.0,
+          "records": 234,
+          "coefficients": 11,
+          "offsetBytes": 358752
+        },
+        {
+          "center": 3,
+          "target": 301,
+          "initSeconds": 312724800.0,
+          "intervalSeconds": 345600.0,
+          "records": 930,
+          "coefficients": 13,
+          "offsetBytes": 420528
+        },
+        {
+          "center": 3,
+          "target": 399,
+          "initSeconds": 312724800.0,
+          "intervalSeconds": 345600.0,
+          "records": 930,
+          "coefficients": 13,
+          "offsetBytes": 710688
+        },
+        {
+          "center": 1,
+          "target": 199,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 1000848
+        },
+        {
+          "center": 2,
+          "target": 299,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 1000896
+        }
+      ]
+    },
+    {
+      "url": "data/de440-2020-2025.bin",
+      "gzipUrl": "data/de440-2020-2025.bin.gz",
+      "bytes": 608544,
+      "gzipBytes": 597578,
+      "sha256": "0b45354af184d93d5c276dbd7c267f8569586b4302d959412605280fae357f53",
+      "gzipSHA256": "3149516b0f21c5b234573e5aed49e48e18b729e4d516f435878ded0f4467851f",
+      "startYear": 2020,
+      "endYearExclusive": 2026,
+      "segments": [
+        {
+          "center": 0,
+          "target": 1,
+          "initSeconds": 628257600.0,
+          "intervalSeconds": 691200.0,
+          "records": 283,
+          "coefficients": 14,
+          "offsetBytes": 0
+        },
+        {
+          "center": 0,
+          "target": 2,
+          "initSeconds": 628257600.0,
+          "intervalSeconds": 1382400.0,
+          "records": 142,
+          "coefficients": 10,
+          "offsetBytes": 95088
+        },
+        {
+          "center": 0,
+          "target": 3,
+          "initSeconds": 628257600.0,
+          "intervalSeconds": 1382400.0,
+          "records": 142,
+          "coefficients": 13,
+          "offsetBytes": 129168
+        },
+        {
+          "center": 0,
+          "target": 4,
+          "initSeconds": 626875200.0,
+          "intervalSeconds": 2764800.0,
+          "records": 72,
+          "coefficients": 11,
+          "offsetBytes": 173472
+        },
+        {
+          "center": 0,
+          "target": 5,
+          "initSeconds": 626875200.0,
+          "intervalSeconds": 2764800.0,
+          "records": 72,
+          "coefficients": 8,
+          "offsetBytes": 192480
+        },
+        {
+          "center": 0,
+          "target": 6,
+          "initSeconds": 626875200.0,
+          "intervalSeconds": 2764800.0,
+          "records": 72,
+          "coefficients": 7,
+          "offsetBytes": 206304
+        },
+        {
+          "center": 0,
+          "target": 10,
+          "initSeconds": 628257600.0,
+          "intervalSeconds": 1382400.0,
+          "records": 142,
+          "coefficients": 11,
+          "offsetBytes": 218400
+        },
+        {
+          "center": 3,
+          "target": 301,
+          "initSeconds": 628257600.0,
+          "intervalSeconds": 345600.0,
+          "records": 565,
+          "coefficients": 13,
+          "offsetBytes": 255888
+        },
+        {
+          "center": 3,
+          "target": 399,
+          "initSeconds": 628257600.0,
+          "intervalSeconds": 345600.0,
+          "records": 565,
+          "coefficients": 13,
+          "offsetBytes": 432168
+        },
+        {
+          "center": 1,
+          "target": 199,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 608448
+        },
+        {
+          "center": 2,
+          "target": 299,
+          "initSeconds": -4734072000.0,
+          "intervalSeconds": 9469440000.0,
+          "records": 1,
+          "coefficients": 2,
+          "offsetBytes": 608496
+        }
+      ]
+    }
+  ],
+  "earthRotation": {
+    "url": "data/earth-rotation.bin",
+    "gzipUrl": "data/earth-rotation.bin.gz",
+    "bytes": 312272,
+    "gzipBytes": 159105,
+    "sha256": "a9ac4557d592609f1d071ca20da572eaf9b0c0abfbcf785d2c0667959528c4b7",
+    "gzipSHA256": "9c648c137cf42c2af26bdbb96334db36511517188d7b501a671d4de5aeeb5657",
+    "rows": 19517
+  },
+  "nutation": [
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      -171996.0,
+      -174.2,
+      92025.0,
+      8.9
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      2062.0,
+      0.2,
+      -895.0,
+      0.5
+    ],
+    [
+      -2.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      46.0,
+      0.0,
+      -24.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      -2.0,
+      0.0,
+      0.0,
+      11.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -2.0,
+      0.0,
+      2.0,
+      0.0,
+      2.0,
+      -3.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      1.0,
+      -1.0,
+      0.0,
+      -1.0,
+      0.0,
+      -3.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      -2.0,
+      2.0,
+      -2.0,
+      1.0,
+      -2.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      -2.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      -2.0,
+      2.0,
+      -13187.0,
+      -1.6,
+      5736.0,
+      -3.1
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1426.0,
+      -3.4,
+      54.0,
+      -0.1
+    ],
+    [
+      0.0,
+      1.0,
+      2.0,
+      -2.0,
+      2.0,
+      -517.0,
+      1.2,
+      224.0,
+      -0.6
+    ],
+    [
+      0.0,
+      -1.0,
+      2.0,
+      -2.0,
+      2.0,
+      217.0,
+      -0.5,
+      -95.0,
+      0.3
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      -2.0,
+      1.0,
+      129.0,
+      0.1,
+      -70.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0,
+      -2.0,
+      0.0,
+      48.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      -2.0,
+      0.0,
+      -22.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      17.0,
+      -0.1,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      -15.0,
+      0.0,
+      9.0,
+      0.0
+    ],
+    [
+      0.0,
+      2.0,
+      2.0,
+      -2.0,
+      2.0,
+      -16.0,
+      0.1,
+      7.0,
+      0.0
+    ],
+    [
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      1.0,
+      -12.0,
+      0.0,
+      6.0,
+      0.0
+    ],
+    [
+      -2.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      -6.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      0.0,
+      -1.0,
+      2.0,
+      -2.0,
+      1.0,
+      -5.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0,
+      -2.0,
+      1.0,
+      4.0,
+      0.0,
+      -2.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      2.0,
+      -2.0,
+      1.0,
+      4.0,
+      0.0,
+      -2.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      -1.0,
+      0.0,
+      -4.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0,
+      1.0,
+      0.0,
+      -2.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      -2.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      -2.0,
+      2.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      2.0,
+      -2.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      2.0,
+      -2274.0,
+      -0.2,
+      977.0,
+      -0.5
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      712.0,
+      0.1,
+      -7.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      -386.0,
+      -0.4,
+      200.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      0.0,
+      2.0,
+      -301.0,
+      0.0,
+      129.0,
+      -0.1
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      -2.0,
+      0.0,
+      -158.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      2.0,
+      0.0,
+      2.0,
+      123.0,
+      0.0,
+      -53.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      63.0,
+      0.0,
+      -2.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      63.0,
+      0.1,
+      -33.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      -58.0,
+      -0.1,
+      32.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      -59.0,
+      0.0,
+      26.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      -51.0,
+      0.0,
+      27.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      -38.0,
+      0.0,
+      16.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      29.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      -2.0,
+      2.0,
+      29.0,
+      0.0,
+      -12.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      2.0,
+      0.0,
+      2.0,
+      -31.0,
+      0.0,
+      13.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      26.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      21.0,
+      0.0,
+      -10.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      16.0,
+      0.0,
+      -8.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      -2.0,
+      1.0,
+      -13.0,
+      0.0,
+      7.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      2.0,
+      2.0,
+      1.0,
+      -10.0,
+      0.0,
+      5.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      0.0,
+      -2.0,
+      0.0,
+      -7.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      2.0,
+      0.0,
+      2.0,
+      7.0,
+      0.0,
+      -3.0,
+      0.0
+    ],
+    [
+      0.0,
+      -1.0,
+      2.0,
+      0.0,
+      2.0,
+      -7.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      -8.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      6.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      2.0,
+      -2.0,
+      2.0,
+      6.0,
+      0.0,
+      -3.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      -6.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      2.0,
+      1.0,
+      -7.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      -2.0,
+      1.0,
+      6.0,
+      0.0,
+      -3.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      -2.0,
+      1.0,
+      -5.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0,
+      5.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      -5.0,
+      0.0,
+      3.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      -2.0,
+      0.0,
+      -4.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      -2.0,
+      0.0,
+      0.0,
+      4.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      -4.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      -3.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      3.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      -1.0,
+      2.0,
+      0.0,
+      2.0,
+      -3.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      -1.0,
+      2.0,
+      2.0,
+      2.0,
+      -3.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      -2.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      -2.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      3.0,
+      0.0,
+      2.0,
+      0.0,
+      2.0,
+      -3.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      -1.0,
+      2.0,
+      2.0,
+      2.0,
+      -3.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      2.0,
+      0.0,
+      2.0,
+      2.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      2.0,
+      -2.0,
+      1.0,
+      -2.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      2.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      -2.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      3.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      2.0,
+      2.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      -4.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -2.0,
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      2.0,
+      4.0,
+      2.0,
+      -2.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0,
+      -4.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      2.0,
+      -2.0,
+      2.0,
+      1.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      2.0,
+      1.0,
+      -1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      -2.0,
+      0.0,
+      2.0,
+      4.0,
+      2.0,
+      -1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      -1.0,
+      0.0,
+      4.0,
+      0.0,
+      2.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      -1.0,
+      0.0,
+      -2.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      2.0,
+      -2.0,
+      1.0,
+      1.0,
+      0.0,
+      -1.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      4.0,
+      -2.0,
+      2.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      3.0,
+      0.0,
+      2.0,
+      -2.0,
+      2.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      2.0,
+      -2.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      2.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -1.0,
+      -1.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      -2.0,
+      0.0,
+      1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      -1.0,
+      2.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      2.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      -2.0,
+      -2.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      -1.0,
+      2.0,
+      0.0,
+      1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      0.0,
+      -2.0,
+      1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0,
+      -2.0,
+      2.0,
+      0.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0,
+      2.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      4.0,
+      2.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "places": [
+    {
+      "id": 1275339,
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "latitude": 19.07283,
+      "longitude": 72.88261,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Mumbai, Maharashtra, India",
+      "country": "India"
+    },
+    {
+      "id": 1273294,
+      "name": "Delhi",
+      "state": "Delhi",
+      "latitude": 28.65195,
+      "longitude": 77.23149,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Delhi, Delhi, India",
+      "country": "India"
+    },
+    {
+      "id": 1277333,
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "latitude": 12.97194,
+      "longitude": 77.59369,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Bengaluru, Karnataka, India",
+      "country": "India"
+    },
+    {
+      "id": 1269843,
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "latitude": 17.38405,
+      "longitude": 78.45636,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Hyderabad, Telangana, India",
+      "country": "India"
+    },
+    {
+      "id": 1264527,
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "latitude": 13.08784,
+      "longitude": 80.27847,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Chennai, Tamil Nadu, India",
+      "country": "India"
+    },
+    {
+      "id": 1275004,
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "latitude": 22.56263,
+      "longitude": 88.36304,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Kolkata, West Bengal, India",
+      "country": "India"
+    },
+    {
+      "id": 1279233,
+      "name": "Ahmedabad",
+      "state": "Gujarat",
+      "latitude": 23.02579,
+      "longitude": 72.58727,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Ahmedabad, Gujarat, India",
+      "country": "India"
+    },
+    {
+      "id": 1269515,
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "latitude": 26.91962,
+      "longitude": 75.78781,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Jaipur, Rajasthan, India",
+      "country": "India"
+    },
+    {
+      "id": 1264733,
+      "name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "latitude": 26.83928,
+      "longitude": 80.92313,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Lucknow, Uttar Pradesh, India",
+      "country": "India"
+    },
+    {
+      "id": 1271476,
+      "name": "Guwahati",
+      "state": "Assam",
+      "latitude": 26.1844,
+      "longitude": 91.7458,
+      "timezone": "Asia/Kolkata",
+      "passed": true,
+      "issues": [],
+      "label": "Guwahati, Assam, India",
+      "country": "India"
+    }
+  ],
+  "leapSeconds": [
+    [
+      2437300.5,
+      1.422818
+    ],
+    [
+      2437512.5,
+      1.372818
+    ],
+    [
+      2437665.5,
+      1.845858
+    ],
+    [
+      2438334.5,
+      1.945858
+    ],
+    [
+      2438395.5,
+      3.24013
+    ],
+    [
+      2438486.5,
+      3.34013
+    ],
+    [
+      2438639.5,
+      3.44013
+    ],
+    [
+      2438761.5,
+      3.54013
+    ],
+    [
+      2438820.5,
+      3.64013
+    ],
+    [
+      2438942.5,
+      3.74013
+    ],
+    [
+      2439004.5,
+      3.84013
+    ],
+    [
+      2439126.5,
+      4.31317
+    ],
+    [
+      2439887.5,
+      4.21317
+    ],
+    [
+      2441317.5,
+      10.0
+    ],
+    [
+      2441499.5,
+      11.0
+    ],
+    [
+      2441683.5,
+      12.0
+    ],
+    [
+      2442048.5,
+      13.0
+    ],
+    [
+      2442413.5,
+      14.0
+    ],
+    [
+      2442778.5,
+      15.0
+    ],
+    [
+      2443144.5,
+      16.0
+    ],
+    [
+      2443509.5,
+      17.0
+    ],
+    [
+      2443874.5,
+      18.0
+    ],
+    [
+      2444239.5,
+      19.0
+    ],
+    [
+      2444786.5,
+      20.0
+    ],
+    [
+      2445151.5,
+      21.0
+    ],
+    [
+      2445516.5,
+      22.0
+    ],
+    [
+      2446247.5,
+      23.0
+    ],
+    [
+      2447161.5,
+      24.0
+    ],
+    [
+      2447892.5,
+      25.0
+    ],
+    [
+      2448257.5,
+      26.0
+    ],
+    [
+      2448804.5,
+      27.0
+    ],
+    [
+      2449169.5,
+      28.0
+    ],
+    [
+      2449534.5,
+      29.0
+    ],
+    [
+      2450083.5,
+      30.0
+    ],
+    [
+      2450630.5,
+      31.0
+    ],
+    [
+      2451179.5,
+      32.0
+    ],
+    [
+      2453736.5,
+      33.0
+    ],
+    [
+      2454832.5,
+      34.0
+    ],
+    [
+      2456109.5,
+      35.0
+    ],
+    [
+      2457204.5,
+      36.0
+    ],
+    [
+      2457754.5,
+      37.0
+    ]
+  ],
+  "betaScope": {
+    "id": "gc-india-private-beta-1",
+    "minDate": "1974-01-01",
+    "maxDate": "2024-12-31",
+    "timezone": "Asia/Kolkata",
+    "offsetSeconds": 19800,
+    "locationCount": 10,
+    "dateExplanation": "Initial private beta supports 1974\u20132024. Earlier and later dates are not yet supported.",
+    "publicDeployment": false,
+    "publicTransits": false,
+    "pre1970": false
+  },
+  "timezoneDataVersion": "2026.2",
+  "manifestVersion": 1,
+  "runtimeVersion": "1.0.0"
+}

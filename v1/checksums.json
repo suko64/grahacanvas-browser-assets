@@ -1,0 +1,131 @@
+{
+  "manifestVersion": 1,
+  "runtimeVersion": "1.0.0",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 373,
+      "sha256": "a62e58214251b682897b6433a82fcb7392a2a47bec8b49a6c4cc717c0ad58535"
+    },
+    {
+      "path": "v1/ASTRONOMY-ENGINE-LICENSE.txt",
+      "bytes": 1317,
+      "sha256": "6c4d2a62d97adbf46e9981e79df7b56d4350ed78d4d71f3654c591ccebdc57fc"
+    },
+    {
+      "path": "v1/bootstrap.mjs",
+      "bytes": 939,
+      "sha256": "0657e5057299fbc7d33b20ad6f218158c16a9ac52171aecc12d28e432b41078b"
+    },
+    {
+      "path": "v1/chart-contract.mjs",
+      "bytes": 2956,
+      "sha256": "3449465a6a7124d170d246f6d07b72440b8eb182b0dc09813a4e885461267211"
+    },
+    {
+      "path": "v1/data/de440-1973-1979.bin",
+      "bytes": 704640,
+      "sha256": "bd6564714c0a57e84bed53d001a0877a0d42003e6f02cd0b0f0b73f274de9559"
+    },
+    {
+      "path": "v1/data/de440-1973-1979.bin.gz",
+      "bytes": 691779,
+      "sha256": "5a569d7cc96464a1ee5a91b1e76db2af90d7073e776c2e9f18a4f3033fcdd614"
+    },
+    {
+      "path": "v1/data/de440-1980-1989.bin",
+      "bytes": 1002192,
+      "sha256": "8ea910d2140b71eb4e40a265f79cf51904b3429ceeb03f7dbddab81cfa8ae4fb"
+    },
+    {
+      "path": "v1/data/de440-1980-1989.bin.gz",
+      "bytes": 983925,
+      "sha256": "046c6399f78853dc39ea1345aa9004f0af2edb7a9e66c5de0619646268c89101"
+    },
+    {
+      "path": "v1/data/de440-1990-1999.bin",
+      "bytes": 1000128,
+      "sha256": "ac5fd67b17ff0faf9ec42f8599bd98e7ac1eac6e015579015d825e8aaf8fd3e8"
+    },
+    {
+      "path": "v1/data/de440-1990-1999.bin.gz",
+      "bytes": 981908,
+      "sha256": "7aced6d721285531a147ed8a376638bc0a865a9ae84daf276d2d59e4b5be2741"
+    },
+    {
+      "path": "v1/data/de440-2000-2009.bin",
+      "bytes": 999792,
+      "sha256": "57f512975798a083ec318e7311472be7d28a5e243f60cbccaef3434336a66b9b"
+    },
+    {
+      "path": "v1/data/de440-2000-2009.bin.gz",
+      "bytes": 981707,
+      "sha256": "897301bd36a475fa94c1f8c2b7ffd4a8edc8f6d5879739336e0869c1e3b62f01"
+    },
+    {
+      "path": "v1/data/de440-2010-2019.bin",
+      "bytes": 1000944,
+      "sha256": "61519ab9032e2e905d7c025673b2ad3e806526e3c2333239929f47f3a684c294"
+    },
+    {
+      "path": "v1/data/de440-2010-2019.bin.gz",
+      "bytes": 982711,
+      "sha256": "cbbbd5bd4945b61a49e3e784db6d5d1fdae467248b896688faa92222b225b12b"
+    },
+    {
+      "path": "v1/data/de440-2020-2025.bin",
+      "bytes": 608544,
+      "sha256": "0b45354af184d93d5c276dbd7c267f8569586b4302d959412605280fae357f53"
+    },
+    {
+      "path": "v1/data/de440-2020-2025.bin.gz",
+      "bytes": 597578,
+      "sha256": "3149516b0f21c5b234573e5aed49e48e18b729e4d516f435878ded0f4467851f"
+    },
+    {
+      "path": "v1/data/earth-rotation.bin",
+      "bytes": 312272,
+      "sha256": "a9ac4557d592609f1d071ca20da572eaf9b0c0abfbcf785d2c0667959528c4b7"
+    },
+    {
+      "path": "v1/data/earth-rotation.bin.gz",
+      "bytes": 159105,
+      "sha256": "9c648c137cf42c2af26bdbb96334db36511517188d7b501a671d4de5aeeb5657"
+    },
+    {
+      "path": "v1/ERFA-LICENSE.txt",
+      "bytes": 1520,
+      "sha256": "f392ad7c4070fff981eeea80b067ed43650e7a17583b1bc02b44ae68ff3a4c25"
+    },
+    {
+      "path": "v1/JPLEPHEM-LICENSE.txt",
+      "bytes": 1084,
+      "sha256": "31bbf940baa5da362ef4e16ccda663cf09a096673b9eac30413f899c1055981d"
+    },
+    {
+      "path": "v1/manifest.json",
+      "bytes": 36479,
+      "sha256": "06106d78258d74a54244645a35dc1a0214327d50c5f931cf2dee257deb467591"
+    },
+    {
+      "path": "v1/SKYFIELD-LICENSE.txt",
+      "bytes": 1101,
+      "sha256": "4b3cad9301fc389f9545079b43384659b908e94d6ab271474b3f6da2bd20d65a"
+    },
+    {
+      "path": "v1/THIRD-PARTY.md",
+      "bytes": 1501,
+      "sha256": "9e7e26bfb0027ac2e6f2ae4a5e37e26e6beab0216218704a93395d2726ad74e1"
+    },
+    {
+      "path": "v1/worker.js",
+      "bytes": 16565,
+      "sha256": "2a3c427476b4fcdf68a215b096b1dcfe1a62cec5754bd5621a62af455f12d27a"
+    }
+  ]
+}
