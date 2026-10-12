@@ -1,2 +1,5 @@
-# grahacanvas-browser-assets
-Versioned public browser runtime and astronomical data for GrahaCanvas. Calculations stay on the visitorâ€™s device.
+# GrahaCanvas public browser assets
+
+Versioned static runtime and astronomical coefficient data for the Blogger calculator. Calculations run locally in the visitor’s browser. No birth records, calculation endpoint, private development tools or validation fixtures are hosted here.
+
+Upstream license and provenance notices accompany v1. No billing service is required.
