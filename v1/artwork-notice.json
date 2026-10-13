@@ -1,0 +1,285 @@
+{
+  "license": "Original generated GrahaCanvas artwork; no external reference artwork copied",
+  "calculationRole": "Symbolic educational presentation only",
+  "catalog": {
+    "jupiter": {
+      "grahaId": "jupiter",
+      "displayName": "Guru",
+      "compactPortrait": "guru-fullbody-compact-v4c.webp",
+      "selectedHouseArtwork": "guru-fullbody-medium-v4c.webp",
+      "staticDevotionalArtwork": "guru-fullbody-medium-v4c.webp",
+      "focusArtwork": "guru-mobility-v4c.webp",
+      "houseFocusArtwork": "guru-mobility-v4c.webp",
+      "mobilityComposition": "guru-mobility-v4c.webp",
+      "vahana": "Golden chariot with eight pale horses",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "wide-chariot",
+      "accessibilityDescription": "Youthful four-armed Guru with book, mala and driving hands in an eight-horse golden chariot. Symbolic calculated Jupiter.",
+      "license": "Original generated artwork; no third-party artwork copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "handAttributes": [
+        "book",
+        "mala",
+        "reins",
+        "reins"
+      ],
+      "armConvention": "GrahaCanvas selected four-arm symbolic house style; traditions vary. Driving hands remain functional; no universal prescription claimed.",
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "mercury": {
+      "grahaId": "mercury",
+      "displayName": "Budha",
+      "compactPortrait": "budha-fullbody-compact-v4b.webp",
+      "selectedHouseArtwork": "budha-fullbody-medium-v4b.webp",
+      "staticDevotionalArtwork": "budha-portrait-v1.webp",
+      "focusArtwork": "budha-mobility-v1.webp",
+      "houseFocusArtwork": "budha-mobility-v1.webp",
+      "mobilityComposition": "budha-mobility-v1.webp",
+      "vahana": "lion-vahana",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "mounted",
+      "accessibilityDescription": "Budha: Youthful golden-yellow complexion; yellow garments with emerald accent, crown; sword, shield, mace and blessing hand. Symbolic representation in lion-vahana.",
+      "license": "Original generated artwork; no external art copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "armConvention": "Existing four-arm composition retained; no regeneration.",
+      "handAttributes": [
+        "sword",
+        "shield",
+        "mace",
+        "abhaya gesture"
+      ],
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "moon": {
+      "grahaId": "moon",
+      "displayName": "Chandra",
+      "compactPortrait": "chandra-fullbody-compact-v4c.webp",
+      "selectedHouseArtwork": "chandra-fullbody-medium-v4c.webp",
+      "staticDevotionalArtwork": "chandra-fullbody-medium-v4c.webp",
+      "focusArtwork": "chandra-mobility-v4c.webp",
+      "houseFocusArtwork": "chandra-mobility-v4c.webp",
+      "mobilityComposition": "chandra-mobility-v4c.webp",
+      "vahana": "Silver chariot with ten white horses",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "adaptive",
+      "accessibilityDescription": "Chandra: Silver chariot with ten white horses. Traditional symbolic artwork of calculated moon.",
+      "license": "Original generated artwork; no external artwork copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "handAttributes": [
+        "lotus",
+        "lotus",
+        "reins",
+        "reins"
+      ],
+      "armConvention": "GrahaCanvas selected four-arm symbolic house style; traditions vary. Driving hands remain functional; no universal prescription claimed.",
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "mars": {
+      "grahaId": "mars",
+      "displayName": "Mangala",
+      "compactPortrait": "mangala-fullbody-compact-v4b.webp",
+      "selectedHouseArtwork": "mangala-fullbody-medium-v4b.webp",
+      "staticDevotionalArtwork": "mangala-portrait-v1.webp",
+      "focusArtwork": "mangala-mobility-v1.webp",
+      "houseFocusArtwork": "mangala-mobility-v1.webp",
+      "mobilityComposition": "mangala-mobility-v1.webp",
+      "vahana": "Ram mount",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "adaptive",
+      "accessibilityDescription": "Mangala: Ram mount. Traditional symbolic artwork of calculated mars.",
+      "license": "Original generated artwork; no external artwork copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "armConvention": "Existing four-arm composition retained; no regeneration.",
+      "handAttributes": [
+        "mace",
+        "spear",
+        "abhaya gesture",
+        "varada gesture"
+      ],
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "venus": {
+      "grahaId": "venus",
+      "displayName": "Shukra",
+      "compactPortrait": "shukra-fullbody-compact-v4b.webp",
+      "selectedHouseArtwork": "shukra-fullbody-medium-v4b.webp",
+      "staticDevotionalArtwork": "shukra-fullbody-medium-v4b.webp",
+      "focusArtwork": "shukra-mobility-v4b.webp",
+      "houseFocusArtwork": "shukra-mobility-v4b.webp",
+      "mobilityComposition": "shukra-mobility-v4b.webp",
+      "vahana": "Golden chariot with eight white horses",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "adaptive",
+      "accessibilityDescription": "Shukra: Golden chariot with eight white horses. Traditional symbolic artwork of calculated venus.",
+      "license": "Original generated artwork; no external artwork copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "armConvention": "Existing four-arm composition retained; no regeneration.",
+      "handAttributes": [
+        "mala",
+        "staff",
+        "water pot",
+        "abhaya gesture"
+      ],
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "rahu": {
+      "grahaId": "rahu",
+      "displayName": "Rahu",
+      "compactPortrait": "rahu-fullbody-compact-v4c.webp",
+      "selectedHouseArtwork": "rahu-fullbody-medium-v4c.webp",
+      "staticDevotionalArtwork": "rahu-fullbody-medium-v4c.webp",
+      "focusArtwork": "rahu-mobility-v4c.webp",
+      "houseFocusArtwork": "rahu-mobility-v4c.webp",
+      "mobilityComposition": "rahu-mobility-v4c.webp",
+      "vahana": "Dark lion-vahana",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "adaptive",
+      "accessibilityDescription": "Rahu: Human head only; serpent neck, scaled chest, torso and coils; four scaled symbolic arms. Dark lion-vahana. Symbolic deity representation of the calculated mean lunar node, not a physical planet.",
+      "license": "Original generated artwork; no external artwork copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "handAttributes": [
+        "sword",
+        "trident",
+        "shield",
+        "abhaya gesture"
+      ],
+      "armConvention": "GrahaCanvas selected four-arm symbolic house style; traditions vary. Driving hands remain functional; no universal prescription claimed.",
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "ketu": {
+      "grahaId": "ketu",
+      "displayName": "Ketu",
+      "compactPortrait": "ketu-fullbody-compact-v4c.webp",
+      "selectedHouseArtwork": "ketu-fullbody-medium-v4c.webp",
+      "staticDevotionalArtwork": "ketu-fullbody-medium-v4c.webp",
+      "focusArtwork": "ketu-mobility-v4c.webp",
+      "houseFocusArtwork": "ketu-mobility-v4c.webp",
+      "mobilityComposition": "ketu-mobility-v4c.webp",
+      "vahana": "Vulture-vahana",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "adaptive",
+      "accessibilityDescription": "Ketu: Serpent head; complete human torso, arms and legs mounted on vulture. Vulture-vahana. Symbolic deity representation of the calculated mean lunar node, not a physical planet.",
+      "license": "Original generated artwork; no external artwork copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "handAttributes": [
+        "mace",
+        "sword",
+        "abhaya gesture",
+        "varada gesture"
+      ],
+      "armConvention": "GrahaCanvas selected four-arm symbolic house style; traditions vary. Driving hands remain functional; no universal prescription claimed.",
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "sun": {
+      "grahaId": "sun",
+      "displayName": "Surya",
+      "compactPortrait": "surya-fullbody-compact-v4c.webp",
+      "selectedHouseArtwork": "surya-fullbody-medium-v4c.webp",
+      "staticDevotionalArtwork": "surya-fullbody-medium-v4c.webp",
+      "focusArtwork": "surya-mobility-v4c.webp",
+      "houseFocusArtwork": "surya-mobility-v4c.webp",
+      "mobilityComposition": "surya-mobility-v4c.webp",
+      "vahana": "Seven-horse chariot with Aruna",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "adaptive",
+      "accessibilityDescription": "Surya: Seven-horse chariot with Aruna. Original symbolic artwork bound to calculated sun.",
+      "license": "Original generated artwork; research references not copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "handAttributes": [
+        "lotus",
+        "lotus",
+        "abhaya gesture",
+        "varada gesture"
+      ],
+      "armConvention": "GrahaCanvas selected four-arm symbolic house style; traditions vary. Driving hands remain functional; no universal prescription claimed.",
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    },
+    "saturn": {
+      "grahaId": "saturn",
+      "displayName": "Shani",
+      "compactPortrait": "shani-fullbody-compact-v4c.webp",
+      "selectedHouseArtwork": "shani-fullbody-medium-v4c.webp",
+      "staticDevotionalArtwork": "shani-fullbody-medium-v4c.webp",
+      "focusArtwork": "shani-mobility-v4c.webp",
+      "houseFocusArtwork": "shani-mobility-v4c.webp",
+      "mobilityComposition": "shani-mobility-v4c.webp",
+      "vahana": "Mounted crow-vahana",
+      "assetState": "implemented",
+      "preferredCompactSize": 28,
+      "preferredFocusFootprint": "adaptive",
+      "accessibilityDescription": "Shani: Mounted crow-vahana. Original symbolic artwork bound to calculated saturn.",
+      "license": "Original generated artwork; research references not copied",
+      "representationPolicy": {
+        "full": "fullBodyCompact",
+        "selected": "fullBodyCompact (medium)",
+        "focus": "mobilityScene",
+        "fit": "contain; preserve aspect ratio; never crop"
+      },
+      "handAttributes": [
+        "mace",
+        "arrow",
+        "bow",
+        "resting blessing hand"
+      ],
+      "armConvention": "GrahaCanvas selected four-arm symbolic house style; traditions vary. Driving hands remain functional; no universal prescription claimed.",
+      "futureTransitCompositionReady": false,
+      "provenance": "Original generated GrahaCanvas artwork; approved rendered derivatives. No reference artwork copied."
+    }
+  }
+}

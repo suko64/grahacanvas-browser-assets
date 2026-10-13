@@ -13,6 +13,261 @@
       "sha256": "a62e58214251b682897b6433a82fcb7392a2a47bec8b49a6c4cc717c0ad58535"
     },
     {
+      "path": "v1/artwork-notice.json",
+      "bytes": 13555,
+      "sha256": "33e7a0712b972c0073b11ad7ba9608144d56a0461e8140ec254cd7a6872f52f5"
+    },
+    {
+      "path": "v1/assets/aruna-v1.webp",
+      "bytes": 356530,
+      "sha256": "dfcefadddf20eb8be692b9fbf5165fbc17a89a68b15e852c03d552610688a6cd"
+    },
+    {
+      "path": "v1/assets/bhava-1-world-v4c.webp",
+      "bytes": 374302,
+      "sha256": "a3311b7d4cd7e7f1c87dfca27db35e4538e8417d7492aa4e0acb5548a3916fc2"
+    },
+    {
+      "path": "v1/assets/bhava-10-world-v4c.webp",
+      "bytes": 370914,
+      "sha256": "40925e2ea1f3b7d1f4d68f9c6786629d2895c268371cb82fa623a513ab14cacf"
+    },
+    {
+      "path": "v1/assets/bhava-11-world-v4c.webp",
+      "bytes": 407444,
+      "sha256": "909cfc54812b17b83f4ee8fb148c3d0f6707392403112576b442dcf79533d0bc"
+    },
+    {
+      "path": "v1/assets/bhava-12-world-v4c.webp",
+      "bytes": 361794,
+      "sha256": "e0bc59f0b485fcbb3bc6facdcc27bf09da888629a8e368e514f8fa2e5dfd82ec"
+    },
+    {
+      "path": "v1/assets/bhava-2-world-v4c.webp",
+      "bytes": 373604,
+      "sha256": "64ecf7c5c44005a6baf7ee5c4b2a96b3194fe10cb73130d137e12d781eacc62e"
+    },
+    {
+      "path": "v1/assets/bhava-3-world-v4c.webp",
+      "bytes": 330764,
+      "sha256": "ad585c77492399678821d91645e78f94e624b95c5ff19ffbcfb522bf8444fe3b"
+    },
+    {
+      "path": "v1/assets/bhava-4-world-v4c.webp",
+      "bytes": 391646,
+      "sha256": "b27d753e2ca85539fec03e34d8c79464a3a3ee5b9f850876d9d6ba02b051978b"
+    },
+    {
+      "path": "v1/assets/bhava-5-world-v4c.webp",
+      "bytes": 357774,
+      "sha256": "34dcaf0973f854dfbf8fe4b531ece37ed249d984740b68f995e3323afff99011"
+    },
+    {
+      "path": "v1/assets/bhava-6-world-v4c.webp",
+      "bytes": 329992,
+      "sha256": "b522b65ee073a6b8a64df12bb546ff10f3f10bf3d2c1d91224cf43c7e72cd570"
+    },
+    {
+      "path": "v1/assets/bhava-7-world-v4c.webp",
+      "bytes": 398166,
+      "sha256": "499457387a2317f80dbdc8710d9ad92705e76ff33ed514e87c0635cc78a111d5"
+    },
+    {
+      "path": "v1/assets/bhava-8-world-v4c.webp",
+      "bytes": 307674,
+      "sha256": "50b042b666b3b1dbac0aa844af97a684d9e479e877b8d486450fca9771f3d75c"
+    },
+    {
+      "path": "v1/assets/bhava-9-world-v4c.webp",
+      "bytes": 369878,
+      "sha256": "eea6873e0724a03412c02547695848e8df2bc32d1e522be7242ad0ac87839da8"
+    },
+    {
+      "path": "v1/assets/budha-fullbody-compact-v4b.webp",
+      "bytes": 16346,
+      "sha256": "a8df7241707c3751f983973ef8f9f3b3e5552a7c49d003404fe2b3244e04b41b"
+    },
+    {
+      "path": "v1/assets/budha-fullbody-medium-v4b.webp",
+      "bytes": 72196,
+      "sha256": "307fdb0892d1602dbd8c677dd1ad3c32a2ad71d69d5274d006375be58b19e7f6"
+    },
+    {
+      "path": "v1/assets/budha-mobility-v1.webp",
+      "bytes": 404086,
+      "sha256": "cf89da53748aadd80bd345b72e40a7443b442fcafe66876d6beeba17a8ead262"
+    },
+    {
+      "path": "v1/assets/budha-portrait-v1.webp",
+      "bytes": 407782,
+      "sha256": "ccbf4e2425e8a3c2c825779121b08a4f2fd55c5ae79d4080cb11c69122182374"
+    },
+    {
+      "path": "v1/assets/chandra-fullbody-compact-v4c.webp",
+      "bytes": 16076,
+      "sha256": "ef5397cfd17ca768bee9bae97ed5b6cba2ddc5a4bb20ba79832b04f0702fd68d"
+    },
+    {
+      "path": "v1/assets/chandra-fullbody-medium-v4c.webp",
+      "bytes": 77964,
+      "sha256": "142c9dea8f814ca92346c602690d09f80897549964b15b66d98ef5c38c0a5468"
+    },
+    {
+      "path": "v1/assets/chandra-mobility-v4c.webp",
+      "bytes": 403500,
+      "sha256": "7f98d211e826e243bdbdb867c09dcb99b921b00d5a6d1debefe9ec3136762122"
+    },
+    {
+      "path": "v1/assets/crow-v1.webp",
+      "bytes": 160938,
+      "sha256": "27f1f19d7f5bd60f9999b4901edbae36f6a5916eed79d8ea5fcc7976b3d497dd"
+    },
+    {
+      "path": "v1/assets/guru-fullbody-compact-v4c.webp",
+      "bytes": 17132,
+      "sha256": "1d3ddb4cda65da3384650e4371a9c82a76c29e03fc38a5653ef3ce6b203944b9"
+    },
+    {
+      "path": "v1/assets/guru-fullbody-medium-v4c.webp",
+      "bytes": 79086,
+      "sha256": "19126a3ccec29f4c9c98dc0168046d983490dc21e1a115874b6cd95205dbdb7a"
+    },
+    {
+      "path": "v1/assets/guru-mobility-v4c.webp",
+      "bytes": 416890,
+      "sha256": "f5b1984d70553b518159c5135f268d877d71c2f871ecd10e38cbfd4c6e4db95e"
+    },
+    {
+      "path": "v1/assets/horse-v1.webp",
+      "bytes": 322588,
+      "sha256": "775056f293a5b7e13cda1162c3f739ed2390e7edd0511ad2b05f3a34d0a1de8d"
+    },
+    {
+      "path": "v1/assets/ketu-fullbody-compact-v4c.webp",
+      "bytes": 19680,
+      "sha256": "edad78c0c3b13a01bcef9e5c8cbf7174af25e76cef296bd3657281e3ad12e844"
+    },
+    {
+      "path": "v1/assets/ketu-fullbody-medium-v4c.webp",
+      "bytes": 92508,
+      "sha256": "8cd23a6cc8313bae2b32a46ad1f5958c23dff9d00e9fc83f65b3ceb629cc7997"
+    },
+    {
+      "path": "v1/assets/ketu-mobility-v4c.webp",
+      "bytes": 487588,
+      "sha256": "801516f9d772b6f23af7f7a1714453f746441d74b13ddfd415e4ee2c5a0fd79f"
+    },
+    {
+      "path": "v1/assets/mangala-fullbody-compact-v4b.webp",
+      "bytes": 13966,
+      "sha256": "0987322b0d2f2e8b238b02ee788f3f762853bb0a9e3a8797f9d130bde81726ee"
+    },
+    {
+      "path": "v1/assets/mangala-fullbody-medium-v4b.webp",
+      "bytes": 60088,
+      "sha256": "1510d8429abb2520555f7f9e18f934fec6505c164483bc108d106a217c18bc2f"
+    },
+    {
+      "path": "v1/assets/mangala-mobility-v1.webp",
+      "bytes": 335888,
+      "sha256": "43e8f1dda073c601b4d673ecab2626f6b5893a4dcaab42669d4820e6f91e1b15"
+    },
+    {
+      "path": "v1/assets/mangala-portrait-v1.webp",
+      "bytes": 484212,
+      "sha256": "d946f674a07d93c5a41f4b3aa801666e4efba5d789a520c4c6d93528c6acc6d3"
+    },
+    {
+      "path": "v1/assets/pavilion-v1.webp",
+      "bytes": 401214,
+      "sha256": "9c1aed957542630c9081c816f7e97aed37403683dc56497252193c6ef579b869"
+    },
+    {
+      "path": "v1/assets/rahu-fullbody-compact-v4c.webp",
+      "bytes": 20636,
+      "sha256": "7fdfc4e02206014b644b30d5cdf429ea3cbbc02cf01d89e69adba3ec7d3adc4f"
+    },
+    {
+      "path": "v1/assets/rahu-fullbody-medium-v4c.webp",
+      "bytes": 94100,
+      "sha256": "408588a1b0fdd6aba3dbcc7014bfee7295d94b86d1335cceea0ecda7bdb0750c"
+    },
+    {
+      "path": "v1/assets/rahu-mobility-v4c.webp",
+      "bytes": 419658,
+      "sha256": "d021e95f538ad93ff5ba22addb4284cd1c69b526670cf65c52c8515c435ccf75"
+    },
+    {
+      "path": "v1/assets/README.md",
+      "bytes": 130,
+      "sha256": "273b647da48dd6033981c8fa4612b07a64b7f4f7dfa49d5faf7bbcf26f56a1f2"
+    },
+    {
+      "path": "v1/assets/shani-fullbody-compact-v4c.webp",
+      "bytes": 16336,
+      "sha256": "9a4ab46e16bf897e1ba3addfc8f2071312b45e4bc796a71cef11cfc82c3a7324"
+    },
+    {
+      "path": "v1/assets/shani-fullbody-medium-v4c.webp",
+      "bytes": 73998,
+      "sha256": "3d1a8cea3f09db1804b1120d23b8ee0987d6cf75a112e51cfa6457e549f93280"
+    },
+    {
+      "path": "v1/assets/shani-mobility-v4c.webp",
+      "bytes": 327660,
+      "sha256": "c6cf2635eac25a5e9e02c2f35402d3a787ff543433e73257ef2c4764663c48ca"
+    },
+    {
+      "path": "v1/assets/shani-mounted-v1.webp",
+      "bytes": 314118,
+      "sha256": "4a943db91f165f6addaee15864b4b88a55454c366bfcc57192a734b208bacabc"
+    },
+    {
+      "path": "v1/assets/shani-v1.webp",
+      "bytes": 285922,
+      "sha256": "a7ad6ae1946e003633426f74a42cde4826364c627679b92005d2ce66540ae88c"
+    },
+    {
+      "path": "v1/assets/shukra-fullbody-compact-v4b.webp",
+      "bytes": 18666,
+      "sha256": "5ee0e81a182627b225e39fa2b96020ed8bc8eebee7cba0b30ed563b69f46f70c"
+    },
+    {
+      "path": "v1/assets/shukra-fullbody-medium-v4b.webp",
+      "bytes": 82528,
+      "sha256": "6b943065c3c336e56a9e769c591d2f0509555751dbb7d485ccb5c8c24820b95d"
+    },
+    {
+      "path": "v1/assets/shukra-mobility-v4b.webp",
+      "bytes": 350768,
+      "sha256": "778a2f0e462626886a734a13d89952cfdcccc8664aa21346921971fe8a503994"
+    },
+    {
+      "path": "v1/assets/surya-fullbody-compact-v4c.webp",
+      "bytes": 20038,
+      "sha256": "f69055d6e62360890f23e039f5905c5c09b324189e306cbca5d89e1dac114876"
+    },
+    {
+      "path": "v1/assets/surya-fullbody-medium-v4c.webp",
+      "bytes": 93946,
+      "sha256": "41244d62e6c13ed21782ca9eeefc91bd57402d31d73acaf14c7129ee71a53a52"
+    },
+    {
+      "path": "v1/assets/surya-mobility-v2.webp",
+      "bytes": 494126,
+      "sha256": "a82de4c22b064af3c017aceab2e7504d01d625b030a427c6b8dfbb1f465bb31e"
+    },
+    {
+      "path": "v1/assets/surya-mobility-v4c.webp",
+      "bytes": 422256,
+      "sha256": "0a4f4d45a3c22b25d62e67f0dde17d15cceac9a1c06d4f66d8f89ac8e4c20cc9"
+    },
+    {
+      "path": "v1/assets/surya-v1.webp",
+      "bytes": 524402,
+      "sha256": "27e49e73ccf80262c61cb2b5e4db04daeec80ade7f494fb3c88570da8e76c42c"
+    },
+    {
       "path": "v1/ASTRONOMY-ENGINE-LICENSE.txt",
       "bytes": 1317,
       "sha256": "6c4d2a62d97adbf46e9981e79df7b56d4350ed78d4d71f3654c591ccebdc57fc"
@@ -96,6 +351,11 @@
       "path": "v1/data/earth-rotation.bin.gz",
       "bytes": 159105,
       "sha256": "9c648c137cf42c2af26bdbb96334db36511517188d7b501a671d4de5aeeb5657"
+    },
+    {
+      "path": "v1/data/README.md",
+      "bytes": 190,
+      "sha256": "7bbe37c256d5c9fe1558eca152940f6410c3900600c592a1ca4154f7c73d1f1b"
     },
     {
       "path": "v1/ERFA-LICENSE.txt",
