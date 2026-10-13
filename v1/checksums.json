@@ -123,6 +123,26 @@
       "sha256": "27f1f19d7f5bd60f9999b4901edbae36f6a5916eed79d8ea5fcc7976b3d497dd"
     },
     {
+      "path": "v1/assets/grahacanvas-favicon.png",
+      "bytes": 4445,
+      "sha256": "487ded6a76c0c4b1c12d73f9d4211c8e9697b1b7b905d00df91535d21b85e131"
+    },
+    {
+      "path": "v1/assets/grahacanvas-icon-192.png",
+      "bytes": 14296,
+      "sha256": "0d9fe3741908e16c566887456e87a5cd4eaefadcdad7c76fda0de6f21f093e7d"
+    },
+    {
+      "path": "v1/assets/grahacanvas-icon-512.png",
+      "bytes": 4118,
+      "sha256": "1f80c6cd902da5892c2c3fe377603d1b8659eb2df05bb295839342e72485fe4f"
+    },
+    {
+      "path": "v1/assets/grahacanvas-social-share.png",
+      "bytes": 69278,
+      "sha256": "ed81b0489815e5dfa15a8653d686eeb83b877a20ae19ef139e768f373afb5096"
+    },
+    {
       "path": "v1/assets/guru-fullbody-compact-v4c.webp",
       "bytes": 17132,
       "sha256": "1d3ddb4cda65da3384650e4371a9c82a76c29e03fc38a5653ef3ce6b203944b9"
