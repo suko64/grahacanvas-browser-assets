@@ -398,6 +398,16 @@
       "sha256": "4b3cad9301fc389f9545079b43384659b908e94d6ab271474b3f6da2bd20d65a"
     },
     {
+      "path": "v1/sound-evening-halo-v1.wav",
+      "bytes": 361004,
+      "sha256": "2641764e92b3f832c52c0b7a1b8ea10291ae978675d68f346275dfbb3aeaafe1"
+    },
+    {
+      "path": "v1/sound-notice-v1.json",
+      "bytes": 722,
+      "sha256": "c94f491c4dfd9199d7b0e9da9389aec5112dc5e8a45a10f29f7ad9c811fa7c31"
+    },
+    {
       "path": "v1/THIRD-PARTY.md",
       "bytes": 1501,
       "sha256": "9e7e26bfb0027ac2e6f2ae4a5e37e26e6beab0216218704a93395d2726ad74e1"
