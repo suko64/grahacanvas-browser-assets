@@ -1,0 +1,61 @@
+{
+  "description": "Original GrahaCanvas product screenshots, captured 16 October 2026; illustrative Surya/Shani demo only. Three approved generated-artwork layers reused unchanged. No personal birth chart or reference artwork copied. Screenshot geometry/color preserved; WebP compression only.",
+  "files": {
+    "grahacanvas-3d-sun-saturn-planetary.webp": {
+      "bytes": 25576,
+      "sha256": "11578f8725bef82eec470d6b0683dcae5c0b66afef82bfd08c8d3bcb469bc036",
+      "dimensions": [
+        534,
+        617
+      ]
+    },
+    "grahacanvas-demo-layer-1.webp": {
+      "bytes": 57656,
+      "sha256": "53cd2368856076279c1bd5373815378f24b8951344ca8daca55a18c09c9dd37a",
+      "dimensions": [
+        640,
+        427
+      ]
+    },
+    "grahacanvas-demo-layer-2.webp": {
+      "bytes": 20038,
+      "sha256": "f69055d6e62360890f23e039f5905c5c09b324189e306cbca5d89e1dac114876",
+      "dimensions": [
+        192,
+        175
+      ]
+    },
+    "grahacanvas-demo-layer-3.webp": {
+      "bytes": 16336,
+      "sha256": "9a4ab46e16bf897e1ba3addfc8f2071312b45e4bc796a71cef11cfc82c3a7324",
+      "dimensions": [
+        192,
+        175
+      ]
+    },
+    "grahacanvas-surya-shani-devas.webp": {
+      "bytes": 31488,
+      "sha256": "aea32e7e63990425228daa07e91e1e82b02ce9cb9d3cdf1fac3e6f404893ed7c",
+      "dimensions": [
+        534,
+        617
+      ]
+    },
+    "grahacanvas-traditional-surya-shani.webp": {
+      "bytes": 21060,
+      "sha256": "6121c11a66d9a2c24e5a212bff727fa8b7b9fe530ede3686e661d3e88ecbf9ee",
+      "dimensions": [
+        534,
+        617
+      ]
+    },
+    "grahacanvas-visual-kundli-bhava-world.webp": {
+      "bytes": 60432,
+      "sha256": "dbc32cacd3137cf4142a483c4dabcbf7231c6f29b4b509cb5a72dfe503420780",
+      "dimensions": [
+        534,
+        617
+      ]
+    }
+  }
+}
